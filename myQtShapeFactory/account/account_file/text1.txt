@@ -1,0 +1,17 @@
+[begin]
+efficient
+Miner 1
+Belt 1
+Cutter 1
+Dustbin 4
+Reciver 100
+[end]
+[begin]
+value
+Calcite 24
+Graphite 1
+[end]
+[begin]
+saved_foundation
+400
+[end]

@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/resouce">
+        <file>image/try.jpg</file>
+        <file>image/block.jpg</file>
+        <file>image/block_built.jpg</file>
+        <file>image/block_Calcite.jpg</file>
+        <file>image/block_Graphite.jpg</file>
+        <file>image/Equipment/Miner.jpg</file>
+        <file>image/Equipment/Belt.jpg</file>
+        <file>image/Equipment/Cutter.jpg</file>
+        <file>image/Equipment/Dustbin.jpg</file>
+        <file>image/Mineral/Calcite/0.png</file>
+        <file>image/Mineral/Graphite/0.png</file>
+        <file>image/Mineral/Graphite/1.png</file>
+        <file>image/Mineral/Graphite/2.png</file>
+        <file>image/Mineral/Graphite/3.png</file>
+        <file>image/Mineral/Graphite/4.png</file>
+        <file>image/Mineral/Graphite/5.png</file>
+        <file>image/Mineral/Graphite/6.png</file>
+        <file>image/Mineral/Graphite/7.png</file>
+        <file>image/Mineral/Graphite/8.png</file>
+        <file>image/Equipment/Reciver.jpg</file>
+        <file>account/account_file/test.txt</file>
+        <file>image/Equipment/Spiner_r.jpg</file>
+        <file>image/Equipment/Spiner_l.jpg</file>
+    </qresource>
+</RCC>

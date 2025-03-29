@@ -1,0 +1,25 @@
+[begin]
+open_cost 50
+[end]
+[begin]
+reciver
+5 5 1 1
+[end]
+[begin]
+mineral
+Calcite
+5
+2 2
+2 3
+3 2
+3 3
+3 4
+[end]
+[begin]
+mineral
+Graphite
+3
+7 9
+7 10
+8 9
+[end]
